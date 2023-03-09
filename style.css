@@ -109,7 +109,7 @@ button:hover{
         width: 680px;
     }
     .container .leftside {
-        background: url(../images/image-product-desktop.jpg);
+        background: url(./images/image-product-desktop.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
